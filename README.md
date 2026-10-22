@@ -21,16 +21,16 @@ This project transforms raw retail transaction and order data into actionable ex
 ## 📈 Dashboard & Technical Architecture Preview
 
 ### 1. Executive Analysis Dashboard
-![Executive Analysis Dashboard](Images/Page%201_2.png)
+![Executive Analysis Dashboard](Images/Page_1.png)
 
 ### 2. Product Analysis Dashboard
-![Product Analysis Dashboard](Images/Page%202_2.png)
+![Product Analysis Dashboard](Images/Page_2.png)
 
 ### 3. Data Model (Star Schema)
 ![Data Model](Images/Data%20Model.png)
 
 ### 4. Data Transformation & ETL (Power Query)
-![Power Query Cleaning](Images/Cleaning_2.png)
+![Power Query Cleaning](Images/Cleaning.png)
 
 ---
 
